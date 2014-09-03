@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Install MonetDB on Mac OS 10.9.4 from source code
