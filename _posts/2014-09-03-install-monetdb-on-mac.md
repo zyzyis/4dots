@@ -58,7 +58,7 @@ sudo make install
 
 Congratulations! you are done. You can test Monetdb by typing `mserver5` and you should see a screen like this as below.
 
-```
+{% highlight python %}
 ~/Documents/github/MonetDB$ mserver5 
 # MonetDB 5 server v11.18.0
 # This is an unreleased version
@@ -71,7 +71,8 @@ Congratulations! you are done. You can test Monetdb by typing `mserver5` and you
 # Listening for connection requests on mapi:monetdb://127.0.0.1:50000/
 # MonetDB/SQL module loaded
 >
-```
+{% endhighlight %}
+
 
 ### > Next step
 
