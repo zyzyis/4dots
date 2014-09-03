@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Install Leiningen 2.X on Ubuntu
@@ -10,5 +10,3 @@ To install the latest version of Leiningen 2.X you need to do it manually. The s
 - Download the [script](https://raw.github.com/technomancy/leiningen/stable/bin/lein) from Leiningen github.
 - Run it for one time, it will download the latest version.
 - Put the file somewhere in your PATH so that you can run it naturally.
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
