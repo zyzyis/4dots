@@ -26,7 +26,7 @@ brew install libtool gettext pcre
 
 The first step before compiling is to launch `./bootstrap` in MonetDB to figure out the environment. Most likely you will find missing dependencies, and one of them could be
 
-```
+```bash
 configure.ac:2045: error: Could not locate the iconv autoconf
 	macros. These are usually located in /usr/share/aclocal/iconv.m4 and
 	provided by the gettext package.  If your macros are in a different
@@ -58,7 +58,7 @@ sudo make install
 
 Congratulations! you are done. You can test Monetdb by typing `mserver5` and you should see a screen like this as below.
 
-```
+```bash
 ~/Documents/github/MonetDB$ mserver5 
 # MonetDB 5 server v11.18.0
 # This is an unreleased version
