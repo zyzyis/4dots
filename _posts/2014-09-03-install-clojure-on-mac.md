@@ -1,8 +1,8 @@
 ---
 published: true
+title: Install Clojure on Mac OS X
+layout: post
 ---
-
-## Install Clojure on Mac OS X
 
 Since invention of Leiningen, installing Clojure usually comes with installing Leiningen first.
 
