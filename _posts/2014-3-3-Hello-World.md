@@ -4,7 +4,6 @@ title: Install Leiningen 2.X on Ubuntu
 published: true
 ---
 
-## Install Leiningen 2.X on Ubuntu
 It seems that Leiningen along with apt repository sticks to the version 1.7, which is released 2 years ago.
  
 To install the latest version of Leiningen 2.X you need to do it manually. The steps are 
