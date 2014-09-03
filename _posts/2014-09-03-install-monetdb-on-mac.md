@@ -1,8 +1,8 @@
 ---
 published: true
+title:Install MonetDB on Mac OS 10.9.4 from source code
+layout: post
 ---
-
-## Install MonetDB on Mac OS 10.9.4 from source code
 
 ### > Download the source code
 
